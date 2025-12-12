@@ -32,7 +32,3 @@ Projede toplam 6 adet tasarım deseni kullanılmıştır:
 5.  *Builder:* Öğrenci nesnesi oluşturulurken kod karmaşasını önlemek için kullanıldı (StudentBuilder.java).
 6.  *Strategy:* Personel ekranında izin listesini (A-Z veya Z-A) sıralamak için kullanıldı (SortStrategy.java).
 
-##  Kurulum
-1.  src/main/resources klasöründe bulunan SQL kodlarını MySQL veritabanınızda çalıştırın.
-2.  DatabaseConnection.java dosyasındaki veritabanı şifresini güncelleyin.
-3.  Projeyi TeatMain.java üzerinden başlatın.
