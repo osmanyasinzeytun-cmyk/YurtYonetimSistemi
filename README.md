@@ -3,10 +3,10 @@
 
 Bu proje, Kırklareli Üniversitesi Yazılım Mimarisi ve Tasarımı dersi kapsamında geliştirilmiş bir Yurt Yönetim Sistemi otomasyonudur.
 
-## 👨‍💻 Proje Ekibi
+##  Proje Ekibi
 * *Adı Soyadı:* [Osman Yasin Zeytun]
 * *Öğrenci No:* [1230505030]
-* *GitHub Profili:* [GitHub Profil Linkin]
+* *GitHub Profili:* [https://github.com/osmanyasinzeytun-cmyk]
 
 * * *Adı Soyadı:* [Burak çavuşoğlu]
 * *Öğrenci No:* [5230505068]
@@ -14,7 +14,7 @@ Bu proje, Kırklareli Üniversitesi Yazılım Mimarisi ve Tasarımı dersi kapsa
 
 * * *Adı Soyadı:* [Muhammed Algil]
 * *Öğrenci No:* [1230505042]
-* *GitHub Profili:* [GitHub Profil Linkin]
+* *GitHub Profili:* [https://github.com/muhammedalgil]
 
 ##  Kullanılan Teknolojiler
 * *Dil:* Java (JDK 21)
